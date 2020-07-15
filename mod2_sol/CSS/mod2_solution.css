@@ -30,6 +30,15 @@
         top: -1px;
         right: -1px;
     }
+    #beef {
+        background-color: rgb(112, 153, 72);
+    }
+    #Chicken {
+        background-color: blue;
+    }
+    #Sushi {
+        background-color: orange;
+    }
     @media (min-width: 992px) {
         .col-lg-4{
             float: left;
