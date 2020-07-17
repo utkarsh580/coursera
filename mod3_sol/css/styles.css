@@ -1,0 +1,43 @@
+.container .navbar-header .navbar-brand{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 2.5em;
+    color: darkblue;
+}
+
+#cont {
+    background-color: rgb(184, 223, 248);
+}
+
+.navbar .navbar-header .navbar-toggle {
+    border: 2px solid blue;
+}
+
+#nav-list .text-center {
+    color: blue;
+    background-color: lightpink;
+}
+
+body {
+    background-color: rgb(255, 198, 152);
+}
+
+h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 123, 0);
+}
+
+#topic {
+    color: darkgreen;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+#topic .col-xs-12 {
+    background-color: rgb(137, 228, 223);
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+
